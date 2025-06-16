@@ -4,7 +4,8 @@ ResidentIncrícel – Galeria de Vilões.
 ## Descrição: 
 Este projeto é um site desenvolvido com **HTML5**, **CSS3** e **JavaScript**, com o objetivo de apresentar de forma organizada e interativa os principais vilões do jogo *Resident Evil 4*. A aplicação simula uma enciclopédia visual, com seções dedicadas aos inimigos, descrição de suas características e níveis de dificuldade.
 
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/848b8a9b-161b-47f4-97d2-2981db55314b)
+
 
 
 ## Funcionalidades
